@@ -8,6 +8,8 @@ int main(void)
 	printf("hotfix branch\n");
 	printf("modify hello world in hotfix\n");
 	printf("modify hello world in hotfix 2\n");
+	printf("conflict\n");
 
 	return 0;
 }
+
