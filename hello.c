@@ -6,6 +6,7 @@ int main(void)
 	int var = 10;
 	printf("%d\n", var);
 	printf("hotfix branch\n");
+	printf("modify hello world in hotfix\n");
 
 	return 0;
 }
