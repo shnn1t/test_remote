@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-int check(int a, int b)
-{
-	if(a == 0 && b == 0)
-		return 1;
-	return 0;
-}
-
 int main(void)
 {
 	printf("hellw world\n");
