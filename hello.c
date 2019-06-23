@@ -9,7 +9,7 @@ int main(void)
 	printf("modify hello world in hotfix\n");
 	printf("modify hello world in hotfix 2\n");
 	printf("conflict\n");
-
+	printf("fetch\n");
 	return 0;
 }
 
